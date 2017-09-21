@@ -16,6 +16,7 @@ namespace HelloWorld
             char character = 'A';
             string firstName = "Mosh";
             bool isWorking = true;
+            int nuevaVariable = 67;
             Console.WriteLine(number);
             Console.WriteLine(count);
             Console.WriteLine(totalPrice);
